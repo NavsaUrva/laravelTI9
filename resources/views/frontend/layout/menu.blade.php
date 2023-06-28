@@ -71,7 +71,7 @@
             </div>
             <div class="sb-sidenav-footer">
                 <div class="small">Logged in as:</div>
-                Navsa Urva
+                Yudha Rizky Alvingky
             </div>
         </nav>
     </div>
